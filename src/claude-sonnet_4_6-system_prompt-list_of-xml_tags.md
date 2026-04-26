@@ -1,4 +1,4 @@
-# System Prompt — XML Tag Reference
+# Claude Sonnet 4.6 - System Prompt - XML Tag Reference
 
 Generated: 2026-04-24T13-29 · With Intended Fair Use for Ecological Purposes · 
 
